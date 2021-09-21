@@ -1,0 +1,17 @@
+# Blog App
+blog/node_modules/
+blog/.expo/
+blog/npm-debug.*
+blog/*.jks
+blog/*.p8
+blog/*.p12
+blog/*.key
+blog/*.mobileprovision
+blog/*.orig.*
+blog/web-build/
+
+# JSONServer
+jsonserver/node_modules
+
+# macOS
+blog/.DS_Store
